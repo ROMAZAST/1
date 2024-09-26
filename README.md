@@ -6,7 +6,7 @@ The main task is to develop a Tic-Tac-Toe game with the following features:
 
 ### Menu Options
 - **Play Modes**:
-  - **Man vs AI**
+  - **Man vs AI**asd
   - **Man vs Man**
   - **AI vs AI**
     - **Random Move**
