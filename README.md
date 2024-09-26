@@ -18,6 +18,6 @@ The main task is to develop a Tic-Tac-Toe game with the following features:
 | 9                   | Gametik-tac-toe 3x3    | INI                      |
 
 ## Technology and Hardware
-# Hardware: Arduino
-# Software: Windows Forms App
-# Programming language:C#
+- Hardware: Arduino
+- Software: Windows Forms App
+- Programming language:C#
