@@ -13,9 +13,9 @@ The main task is to develop a Tic-Tac-Toe game with the following features:
     - **Win Strategy**
 ## Student and Task Details
 
-| **Student Number** | **Project Title**       | **Configuration Format** |
-|---------------------|-------------------------|--------------------------|
-| 9                   | Gametik-tac-toe 3x3    | INI                      |
+| **Student Number** | **Game**            | **Configuration Format** |
+|---------------------|---------------------|--------------------------|
+| 9                   | Tic-Tac-Toe 3x3     | INI                      |
 
 ## Technology and Hardware
 - Hardware: Arduino
