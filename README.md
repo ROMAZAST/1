@@ -10,7 +10,8 @@
    - Go to **Tools > Board** and choose the Arduino NANO.
 4. Upload the program code to the Arduino board:
    - Click the **Upload** button (right arrow icon) in the Arduino IDE. Wait for the upload to complete; you should see a "Done uploading" message in the IDE status bar.
-### How to build the Client
+
+### How to build the Client:
 1. **Open Microsoft Visual Studio:**
    - Launch Microsoft Visual Studio on your computer.
 
