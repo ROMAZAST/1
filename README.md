@@ -11,11 +11,6 @@
 4. Upload the program code to the Arduino board:
    - Click the **Upload** button (right arrow icon) in the Arduino IDE. Wait for the upload to complete; you should see a "Done uploading" message in the IDE status bar.
 ### How to build the Client
-Here are the detailed steps to open the `Tic_Tac_Toe_Client.sln` file and build the project in Microsoft Visual Studio:
-
----
-
-## How to Open and Build the Tic Tac Toe Client in Visual Studio
 1. **Open Microsoft Visual Studio:**
    - Launch Microsoft Visual Studio on your computer.
 
