@@ -24,4 +24,3 @@
 4. **Build the Project:**
    - Click on **Build** in the top menu.
    - Select **Build Solution** (or simply press **Ctrl + Shift + B**).
-   - Once the build process is complete, look at the **Output** window at the bottom of Visual Studio.
