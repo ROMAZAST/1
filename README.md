@@ -13,7 +13,7 @@
 
 ### How to build the Client:
 1. **Open Microsoft Visual Studio:**
-   - Launch Microsoft Visual Studio on your computer.
+   - Launch Microsoft Visual Studio 
 
 2. **Open the Solution File:**
    - Click on **File** in the top menu.
