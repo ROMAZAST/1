@@ -23,7 +23,4 @@
 4. **Build the Project:**
    - Click on **Build** in the top menu.
    - Select **Build Solution** (or simply press **Ctrl + Shift + B**).
-
-5. **Check for Build Success:**
    - Once the build process is complete, look at the **Output** window at the bottom of Visual Studio.
-   - Ensure that there are no errors. You should see a message stating **"Build succeeded"**.
